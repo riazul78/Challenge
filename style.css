@@ -1,0 +1,92 @@
+
+span{
+      color:coral;
+}
+.sec{
+         display: flex;
+         margin-bottom: 100px;
+         position: relative;
+}
+.divvas{
+         width: 50%;
+         margin-left: 50px;
+         margin-top: 80px;
+         
+}
+h1{
+      font-family: 'Poppins', sans-serif;
+      font-size: 45px;
+      color:rgb(128, 128, 128);
+      margin-top: 100px;
+}
+.divvas img{
+              width: 100%;
+}
+.divvas a{
+           text-decoration: none;
+           border: 1px solid white;
+           background-color: orangered;
+           color: white;
+           padding: 15px 30px;
+           border-radius: 60px;
+}
+.divvas p{
+             margin-bottom: 50px;
+             color: grey;
+}
+#person{
+            width: 50%;
+            padding: 60px;
+}
+.another{
+          margin-left: 100px;
+          margin-top: 20px;
+}
+#para{
+        margin-right: 100px;
+}
+#heading{
+           font-size:35px ;
+}
+#second{
+          background-image: url('images/shapes/Frame\ 59.jpg');
+          background-repeat: no-repeat;
+          margin-top: 20px; 
+          margin-bottom: 0px;
+}
+.optional{
+             text-align: center; 
+             height: 50px;
+             width: 50%;
+             margin-left: 25%;
+             margin-right: 25%;
+             padding-bottom: 0px;
+                   
+}
+#option{
+          font-size: 35px;
+}
+.divva{
+       display: flex;
+       position:absolute;
+       padding-top: 200px;
+       margin-right: 20px;
+       
+      
+       
+}
+.divva img{
+      width: 100%;
+         
+}
+#third{
+        margin-top: 50px;
+        
+}
+.box{
+      border: 20px solid white;
+      box-shadow: 10px 10px 30px grey;
+      width: 100%;
+      margin-right: 20px;
+      border-radius: 30px;
+}
